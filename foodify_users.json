@@ -1,0 +1,62 @@
+{
+    "suryansh": {
+        "password": "su1",
+        "dob": "2000-01-15",
+        "address": "saket",
+        "email": "su1@gmail.com"
+    },
+    "yash": {
+        "password": "yash02",
+        "dob": "2001-01-18",
+        "address": "YISC",
+        "email": "yash02@gmail.com"
+    },
+    "ramlal": {
+        "password": "ram123",
+        "dob": "2000-01-20",
+        "address": "yash corner",
+        "email": "ram123@gmail.com"
+    },
+    "archit": {
+        "password": "arch123",
+        "dob": "2000-01-19",
+        "address": "star",
+        "email": "arch@gmail.com"
+    },
+    "ggs": {
+        "password": "1234",
+        "dob": "2000-01-12",
+        "address": "indore",
+        "email": "AA@gmail.com"
+    },
+    "gujju": {
+        "password": "tan",
+        "dob": "2000-01-01",
+        "address": "gujrat",
+        "email": "tan@gmail.com"
+    },
+    "tanmay": {
+        "password": "tan",
+        "dob": "2000-01-08",
+        "address": "tan",
+        "email": "tan@gmail.com"
+    },
+    "a": {
+        "password": "a",
+        "dob": "2000-01-01",
+        "address": "a",
+        "email": "a@gmail.com"
+    },
+    "bv": {
+        "password": "bv",
+        "dob": "2000-01-01",
+        "address": "bv",
+        "email": "bv"
+    },
+    "fd": {
+        "password": "Ashiv2",
+        "dob": "2000-01-27",
+        "address": "kzjxj",
+        "email": "234"
+    }
+}

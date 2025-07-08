@@ -1,0 +1,94 @@
+{
+    "Italian":[
+        {
+            "Name":"Margherita Pizza",
+            "Price":"250"
+        },
+        {
+                "Name": "Alfredo Pasta",
+                "Price": "270"
+        },
+        {
+            "Name":"Baked Lasagna",
+            "Price":"320"
+        }
+    ],
+    "Indian":[
+        {
+            "Name":"Paneer Tikka",
+            "Price":"400"
+        },
+        {
+            "Name":"Mushroom Masala Tikka",
+            "Price":"420"
+        },
+        {
+            "Name":"Sham Savera Kofta",
+            "Price":"510"
+        },
+        {
+            "Name":"Garlic Naan",
+            "Price":"75"        
+        }
+    ],
+    "Chinese":[
+        {
+            "Name":"Cottage Cheese in hot garlic sauce",
+            "Price":"230"
+        },
+        {
+            "Name":"Honey Chilly Potatoes",
+            "Price":"210"
+        },
+        {
+            "Name":"Tossed Hakka Noodles",
+            "Price":"200"
+            
+        }
+    ],
+   "Indian Chaat": [
+    {
+      "Name": "Pani Puri",
+      "Price": "120"
+    },
+    {
+      "Name": "Agra Ka Bhalla",
+      "Price": "130"
+    },
+    {
+      "Name": "Dry fruit Chaat",
+      "Price": "140"
+    }
+  ],
+  "Dessert": [
+    {
+      "Name": "Gulab Jamun",
+      "Price": "100"
+    },
+    {
+      "Name": "Chocolate Brownie",
+      "Price": "150"
+    },
+    {
+      "Name": "Ice Cream Sundae",
+      "Price": "180"
+    }
+  ],
+  "Thai": [
+    {
+      "Name": "Pad Thai",
+      "Price": "280"
+    },
+    {
+      "Name": "Green Curry",
+      "Price": "300"
+    },
+    {
+      "Name": "Tom Yum Soup",
+      "Price": "250"
+    }
+  ]
+
+
+     
+}
