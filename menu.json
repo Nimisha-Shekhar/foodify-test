@@ -2,6 +2,12 @@
     "MEDITERRIAN":[
         {
             "Name":"Quesdillas Pizza",
+            "Price": "250"
+        }
+    ],
+    "RAJASTHANIIII":[
+        {
+            "Name":"Baatiiiii Pizza",
             "Price":"250"
         },
         {
